@@ -21,13 +21,13 @@ spec:
         - name: PORT
           value: "8080"
         - name: ProxySite
-          value: ""
+          value: "beauty-upgrade.tw"
         - name: Vless_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "360ecd01-69a4-4775-9111-11afe01f945e"
         - name: Vless_Path
           value: "/s233"
         - name: Vmess_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "29aac27c-d0ec-4602-b15d-42bb2c64c72c"
         - name: Vmess_Path
           value: "/s244"
         - name: Share_Path
